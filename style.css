@@ -57,7 +57,7 @@ body{
 
 .header{
     height: 60vh !important;
-    background: url(img/header2.jpg) no-repeat center;
+    background: url(Mena-688-patch-1/header2.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -159,7 +159,7 @@ p {
 }
 
 .price {
-    background: url(img/header4.jpg) no-repeat center;
+    background: url(Mena-688-patch-1/header4.jpg) no-repeat center;
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
